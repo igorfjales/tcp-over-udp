@@ -1,4 +1,3 @@
 # Tcp-over-Udp
-Tcp implemented using Udp protocol.                                                                                                       
-This is a college project, im still learning.                                                                                             
-Be cool!
+TCP implmentado pelo UDP.
+Projeto da faculdade.
